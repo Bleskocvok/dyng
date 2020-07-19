@@ -1,0 +1,16 @@
+/build/
+/.vscode/
+*.sh
+*.py
+bin
+screenshots
+call*
+benchmark
+bin
+*.txt
+*perf*
+docs/html
+docs/latex
+docs/*.pdf
+text/*
+!text/bachelors-thesis/*
