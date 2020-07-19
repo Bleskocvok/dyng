@@ -4,8 +4,6 @@
 
 The `dyng` library is a simple C++ library for dynamic graph layout.
 
-![Low map gif](low_map_video.gif) ![High map gif](high_map_video.gif)
-
 ## Quick start
 
 Refer to [Quick start](docs/QUICK_START.md) to learn how to integrate this library in your project and how to use it.
@@ -13,6 +11,9 @@ Refer to [Quick start](docs/QUICK_START.md) to learn how to integrate this libra
 ## Graphic demo
 
 See [How to compile the demo](RUNNING_DEMO.md) for a guide on how to compile a graphic demo showcasing the library.
+
+![Low map gif](low_map_video.gif) ![High map gif](high_map_video.gif)
+
 
 ## Full documentation
 
