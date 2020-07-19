@@ -1,6 +1,6 @@
 # `dyng` - Dynamic Graph Layout
 
-The `dyng` library is a simple C++ library for creating dynamic graph layout.
+The `dyng` library is a simple C++ library for dynamic graph layout.
 
 ## Quick start
 
@@ -20,5 +20,5 @@ doxygen
 ```
 
 ## License
-Licensed under the Apache License, Version 2.0. See accompanying file named [LICENSE](LICENSE).
+The project is licensed under the Apache License, Version 2.0. See accompanying file named [LICENSE](LICENSE).
 
