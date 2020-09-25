@@ -7,7 +7,7 @@ This page contains full documentation for the library, which includes the descri
 For a simple guide on how to use the library refer to \ref QUICK_START.md .
 
 \section thesis_ref Thesis
-The documentation contains references to the thesis it was created for: <a href="https://is.muni.cz/auth/th/ro22a/">available here</a>. The references are in the following format:
+The documentation contains references to the thesis it was created for: <a href="https://is.muni.cz/th/ro22a/">available here</a>. The references are in the following format:
 \verbatim
 (Described in section X.Y.Z)
 \endverbatim

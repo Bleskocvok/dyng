@@ -30,7 +30,7 @@ The project is licensed under the Apache License, Version 2.0. See the accompany
 ## FAQ
 
 ### What was the motivation for creating this library?
-This library is the outcome of my bachelor's thesis, which can be accessed [here](https://is.muni.cz/auth/th/ro22a/). (It's written in the Czech language.)
+This library is the outcome of my bachelor's thesis, which can be accessed [here](https://is.muni.cz/th/ro22a/). (It's written in the Czech language.)
 
 ### What algorithms are used?
 
