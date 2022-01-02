@@ -4,10 +4,6 @@
 
 The **dyng** library is a simple C++ library for dynamic graph layout.
 
-## Quick start
-
-Refer to [Quick start](docs/QUICK_START.md) to learn how to integrate this library in your project and how to use it.
-
 ## Graphic demo
 
 See [How to compile the demo](RUNNING_DEMO.md) for a guide on how to compile a graphic demo showcasing the library.
@@ -15,14 +11,22 @@ See [How to compile the demo](RUNNING_DEMO.md) for a guide on how to compile a g
 ![Low map gif](low_map_video.gif) ![High map gif](high_map_video.gif)
 
 
-## Full documentation
+## Quick start
 
-Full documentation can be generated using **Doxygen**. After executing following commands you can access the main page by opening `docs/docs.html`.
+Refer to [Quick start](docs/QUICK_START.md) to learn how to integrate this library in your project and how to use it.
+
+## Documentation
+
+Full [documentation](https://bleskocvok.github.io/dyng/html/index.html) is available online at https://bleskocvok.github.io/dyng/html/index.html.
+
+Alternatively, it can be generated offline from the cloned repository using **Doxygen**:
 
 ```bash
 cd docs
 doxygen
 ```
+
+After which the main page can be accessed by opening `docs/docs.html`.
 
 ## License
 The project is licensed under the Apache License, Version 2.0. See the accompanying file named [LICENSE](LICENSE).
@@ -34,16 +38,16 @@ This library is the outcome of my bachelor's thesis, which can be accessed [here
 
 ### What algorithms are used?
 
-The library currently uses a combination of these two algorithms:
+The library currently uses a combination of the two algorithms described in these papers:
 
 - **Foresighted Layout with Tolerance**  
 Diehl S., Görg C. (2002) Graphs, They Are Changing. In: Goodrich M.T., Kobourov S.G. (eds) Graph Drawing. GD 2002. Lecture Notes in Computer Science, vol 2528. Springer, Berlin, Heidelberg
 - **Fruchterman–Reingold**  
 Fruchterman, T.M., & Reingold, E.M. (1991). Graph Drawing by Force-directed Placement. Softw. Pract. Exp., 21, 1129-1164.
 
-### Is the logo supposed to represent a flame?
+### What is the little logo supposed to represent?
 
-Yes, it is.
+A flaming graph.
 
 ### Why isn't the library named dyngl instead? (`DYN`amic `G`raph `L`ayout)
 
