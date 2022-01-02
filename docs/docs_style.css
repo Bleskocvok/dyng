@@ -1,0 +1,17 @@
+
+#titlearea {
+    border-bottom: 1px solid #a33c00;
+}
+
+.sm-dox a {
+    color: black;
+    background-image: none;
+}
+
+.sm-dox {
+    background-image: linear-gradient(#ffa36d, #d55f1a);
+}
+
+.sm-dox a:hover {
+    background-image: linear-gradient(#bd4f0f, #a33c00);
+}
