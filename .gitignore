@@ -9,8 +9,5 @@ benchmark
 bin
 *.txt
 *perf*
-docs/html
-docs/latex
-docs/*.pdf
 text/*
 !text/bachelors-thesis/*

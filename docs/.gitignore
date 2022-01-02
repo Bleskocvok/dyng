@@ -1,3 +1,4 @@
 !*.dox
 !Doxyfile
-out/
+/latex
+/*.pdf
